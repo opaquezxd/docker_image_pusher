@@ -1,1 +1,1 @@
-kumoi/sowfa:v24_base
+kumoi/sowfa:v24
